@@ -1,0 +1,211 @@
+{
+    "income": [
+      {
+        "source": "Salary",
+        "amount": 5000,
+        "date": "2024-05-01"
+      },
+      {
+        "source": "Freelance Work",
+        "amount": 1500,
+        "date": "2024-05-05"
+      },
+      {
+        "source": "Investment Dividends",
+        "amount": 200,
+        "date": "2024-05-10"
+      },
+      {
+        "source": "Rental Income",
+        "amount": 1000,
+        "date": "2024-05-15"
+      },
+      {
+        "source": "Bonus",
+        "amount": 1000,
+        "date": "2024-05-20"
+      },
+      {
+        "source": "Interest Income",
+        "amount": 300,
+        "date": "2024-05-25"
+      },
+      {
+        "source": "Consulting Fees",
+        "amount": 800,
+        "date": "2024-05-30"
+      },
+      {
+        "source": "Part-Time Job",
+        "amount": 700,
+        "date": "2024-06-01"
+      },
+      {
+        "source": "Side Business Revenue",
+        "amount": 1200,
+        "date": "2024-06-05"
+      },
+      {
+        "source": "Royalties",
+        "amount": 500,
+        "date": "2024-06-10"
+      }
+    ],
+    "expenses": [
+      {
+        "category": "Rent",
+        "amount": 1200,
+        "date": "2024-05-01"
+      },
+      {
+        "category": "Groceries",
+        "amount": 300,
+        "date": "2024-05-03"
+      },
+      {
+        "category": "Utilities",
+        "amount": 150,
+        "date": "2024-05-05"
+      },
+      {
+        "category": "Transportation",
+        "amount": 100,
+        "date": "2024-05-08"
+      },
+      {
+        "category": "Dining Out",
+        "amount": 200,
+        "date": "2024-05-10"
+      },
+      {
+        "category": "Entertainment",
+        "amount": 50,
+        "date": "2024-05-15"
+      },
+      {
+        "category": "Medical Expenses",
+        "amount": 80,
+        "date": "2024-05-20"
+      },
+      {
+        "category": "Shopping",
+        "amount": 250,
+        "date": "2024-05-25"
+      },
+      {
+        "category": "Insurance",
+        "amount": 120,
+        "date": "2024-05-28"
+      },
+      {
+        "category": "Education",
+        "amount": 200,
+        "date": "2024-05-30"
+      }
+    ],
+    "transactions": [
+      {
+        "date": "2024-05-02",
+        "category": "income",
+        "amount": 2000,
+        "description": "Payment from Client A"
+      },
+      {
+        "date": "2024-05-04",
+        "category": "expense",
+        "amount": 50,
+        "description": "Dinner with friends"
+      },
+      {
+        "date": "2024-05-10",
+        "category": "income",
+        "amount": 300,
+        "description": "Dividend from Stocks"
+      },
+      {
+        "date": "2024-05-15",
+        "category": "expense",
+        "amount": 80,
+        "description": "Doctor's Appointment"
+      },
+      {
+        "date": "2024-05-20",
+        "category": "income",
+        "amount": 500,
+        "description": "Royalty Payment"
+      },
+      {
+        "date": "2024-05-25",
+        "category": "expense",
+        "amount": 250,
+        "description": "Shopping Spree"
+      },
+      {
+        "date": "2024-05-30",
+        "category": "income",
+        "amount": 200,
+        "description": "Consulting Fee"
+      },
+      {
+        "date": "2024-06-01",
+        "category": "income",
+        "amount": 700,
+        "description": "Part-Time Job Payment"
+      },
+      {
+        "date": "2024-06-05",
+        "category": "income",
+        "amount": 1200,
+        "description": "Side Business Revenue"
+      },
+      {
+        "date": "2024-06-10",
+        "category": "income",
+        "amount": 500,
+        "description": "Royalty Payment"
+      }
+    ],
+    "investments": [
+      {
+        "asset": "Stocks",
+        "amount": 5000
+      },
+      {
+        "asset": "Real Estate",
+        "amount": 10000
+      },
+      {
+        "asset": "Mutual Funds",
+        "amount": 3000
+      },
+      {
+        "asset": "Bonds",
+        "amount": 2000
+      },
+      {
+        "asset": "Cryptocurrency",
+        "amount": 1500
+      },
+      {
+        "asset": "Precious Metals",
+        "amount": 4000
+      },
+      {
+        "asset": "Savings Account",
+        "amount": 8000
+      },
+      {
+        "asset": "Certificate of Deposit (CD)",
+        "amount": 7000
+      },
+      {
+        "asset": "401(k)",
+        "amount": 12000
+      },
+      {
+        "asset": "IRA",
+        "amount": 9000
+      }
+    ]
+  }
+  
